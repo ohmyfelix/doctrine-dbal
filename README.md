@@ -18,7 +18,7 @@
 Website 🚀 <a href="https://contributte.org">contributte.org</a> | Contact 👨🏻‍💻 <a href="https://f3l1x.io">f3l1x.io</a> | Twitter 🐦 <a href="https://twitter.com/contributte">@contributte</a>
 </p>
 
-Doctrine DBAL for Nette Framework.
+Integration of [Doctrine DBAL](https://www.doctrine-project.org/projects/dbal.html) for Nette Framework.
 
 ## Versions
 
@@ -26,8 +26,6 @@ Doctrine DBAL for Nette Framework.
 |-------------|---------|----------|--------|---------|
 | dev         | `^0.11` | `master` | `3.2+` | `>=8.2` |
 | stable      | `^0.10` | `master` | `3.2+` | `>=8.2` |
-
-Integration of [Doctrine DBAL](https://www.doctrine-project.org/projects/dbal.html) for Nette Framework.
 
 ## Contents
 
